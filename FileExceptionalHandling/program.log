@@ -3,3 +3,21 @@ ERROR:root:My file was not found [Errno 2] No such file or directory: 'nikhil.tx
 ERROR:root:My file was found division by zero
 ERROR:root:My file was found division by zero
 ERROR:root:My file was found division by zero
+2025-11-08 19:01:45,407 INFO processing each element 1
+2025-11-08 19:01:45,408 INFO processing each element hello
+2025-11-08 19:01:45,409 INFO processing each element [2, 'world']
+2025-11-08 19:01:45,410 INFO processing each element 4
+2025-11-08 19:01:45,410 INFO processing each element [3, 'python']
+2025-11-08 19:04:09,907 INFO processing each element 1
+2025-11-08 19:04:24,200 INFO processing each element 1
+2025-11-08 19:05:27,570 INFO processing each element 1
+2025-11-08 19:06:35,107 INFO processing each element 1
+2025-11-08 19:06:35,107 INFO processing each element hello
+2025-11-08 19:06:35,108 INFO processing each element [2, 'world']
+2025-11-08 19:06:35,108 INFO processing sublist element:2
+2025-11-08 19:06:35,108 INFO processing sublist element:world
+2025-11-08 19:06:35,108 INFO processing each element 4
+2025-11-08 19:06:35,108 INFO processing each element [3, 'python']
+2025-11-08 19:06:35,108 INFO processing sublist element:3
+2025-11-08 19:06:35,108 INFO processing sublist element:python
+2025-11-08 19:06:35,109 INFO The result is:[1, 2, 4, 3],['hello']
